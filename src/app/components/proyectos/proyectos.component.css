@@ -1,0 +1,13 @@
+.row{
+    padding: 20px;
+    background-color: #131227;
+    color: white;
+}
+.contenedor{
+    width: auto;
+
+}
+.parte1, .parte2{
+    display: inline_block;
+    text-align: justify;
+}

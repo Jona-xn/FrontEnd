@@ -11,6 +11,7 @@ import { BannerComponent } from './components/banner/banner.component';
 import { HardYSoftSkillsComponent } from './components/hard-y-soft-skills/hard-y-soft-skills.component';
 import { LogoAPComponent } from './components/logo-ap/logo-ap.component';
 import { ProyectosComponent } from './components/proyectos/proyectos.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { ProyectosComponent } from './components/proyectos/proyectos.component';
     BannerComponent,
     HardYSoftSkillsComponent,
     LogoAPComponent,
-    ProyectosComponent
+    ProyectosComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,

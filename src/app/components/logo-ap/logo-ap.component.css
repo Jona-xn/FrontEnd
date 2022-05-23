@@ -16,8 +16,9 @@ img{
 }
 
 
-/* Haciendo el responsive par atelefonos moviles 
+/* Haciendo el responsive par atelefonos moviles */
 
+@media (max-width: 575px){
 .container{
     flex-direction: column;
 
@@ -25,8 +26,15 @@ img{
 
 .redes{
     display: flex;
-    flex-direction: colum;
+    flex-direction: column;
+    align-items: center;
+
 }
 
-*/
-/*Continuar despues*/
+.redes img{
+    margin: 0.2em;
+}
+
+
+}
+

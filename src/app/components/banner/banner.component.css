@@ -1,5 +1,9 @@
-div{
-    width: 100%;
-    height: 300px;
+.row{
+   
     background-color: #131227;
+    padding: 20px;
+    border: 2px ;
+        
+    
+
 }

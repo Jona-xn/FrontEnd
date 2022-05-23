@@ -32,24 +32,36 @@ img{
 @media (max-width: 576px){
     #fotoperfil{
         position: absolute;
-        height: 100px;
-        width: 100px;
+        height: 70px;
+        width: 70px;
         border-radius: 160px;
         box-shadow: 3px 3px 3px  black;
-        left: 3% ;
-        top: 100px;
+       left: 42%;
+        top: 250px;
         border:2px solid #666;
     }  
 }
 @media (max-width: 400px){
     #fotoperfil{
         position: absolute;
-        height: 100px;
-        width: 100px;
+        height: 60px;
+        width: 60px;
         border-radius: 160px;
         box-shadow: 3px 3px 3px  black;
-        left: 3% ;
-        top: 160px;
+        left: 38% ;
+        top: 250px;
+        border:2px solid #666;
+    }  
+}
+@media (max-width: 200px){
+    #fotoperfil{
+        position: absolute;
+        height: 60px;
+        width: 60px;
+        border-radius: 160px;
+        box-shadow: 3px 3px 3px  black;
+        left: 38% ;
+        top: 250px;
         border:2px solid #666;
     }  
 }
